@@ -79,7 +79,7 @@
     "date": "04/03/2024",
     "institution": "Parkside",
     "account": "Visa Parkside",
-    "merchant": "Rent",
+    "merchant": "Venmo Transfer",
     "amount": 1000.00,
     "type": "credit",
     "categoryId": 901,
